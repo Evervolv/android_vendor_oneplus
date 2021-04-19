@@ -23,7 +23,6 @@ libcvface_api.so
 libsnpe_dsp_domains_v3.so 64
 libPolarrRender.so
 libXDocProcessSDK.so
-libqti-perfd-client.so
 libadsprpc.so
 libcdsprpc.so
 libsdsprpc.so
