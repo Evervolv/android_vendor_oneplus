@@ -927,7 +927,6 @@ PRODUCT_PACKAGES += \
     HotwordEnrollmentXGoogleWCD9340 \
     DeviceInfo \
     QtiTelephonyService \
-    SoterService \
     datastatusnotification \
     embms \
     WfdService \
