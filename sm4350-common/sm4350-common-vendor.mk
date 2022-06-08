@@ -131,7 +131,6 @@ PRODUCT_COPY_FILES += \
     vendor/oneplus/sm4350-common/proprietary/vendor/bin/init.qti.kernel.sh:$(TARGET_COPY_OUT_VENDOR)/bin/init.qti.kernel.sh \
     vendor/oneplus/sm4350-common/proprietary/vendor/bin/init.qti.media.sh:$(TARGET_COPY_OUT_VENDOR)/bin/init.qti.media.sh \
     vendor/oneplus/sm4350-common/proprietary/vendor/bin/init.qti.qcv.sh:$(TARGET_COPY_OUT_VENDOR)/bin/init.qti.qcv.sh \
-    vendor/oneplus/sm4350-common/proprietary/vendor/bin/irsc_util:$(TARGET_COPY_OUT_VENDOR)/bin/irsc_util \
     vendor/oneplus/sm4350-common/proprietary/vendor/bin/ks:$(TARGET_COPY_OUT_VENDOR)/bin/ks \
     vendor/oneplus/sm4350-common/proprietary/vendor/bin/loadalgo:$(TARGET_COPY_OUT_VENDOR)/bin/loadalgo \
     vendor/oneplus/sm4350-common/proprietary/vendor/bin/loc_launcher:$(TARGET_COPY_OUT_VENDOR)/bin/loc_launcher \
